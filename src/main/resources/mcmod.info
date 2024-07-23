@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tagless",
+  "name": "Tagless",
+  "description": "Disable render of player nametags.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lumijiez"],
+  "credits": "Me :P",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
